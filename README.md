@@ -3,7 +3,8 @@
 A mini e-commerce application built with Rails 6.1 for purposes of learning Rails.
 
 ## Product Screenshots
-
+![Jungle Landing Page](https://github.com/Tejasva-Bhatia/jungle-rails/blob/master/public/images/Jungle-Landing-Page.png?raw=true)
+![Jungle Products](https://github.com/Tejasva-Bhatia/jungle-rails/blob/master/public/images/Jungle-Products.png?raw=true)
 
 ## Setup
 
